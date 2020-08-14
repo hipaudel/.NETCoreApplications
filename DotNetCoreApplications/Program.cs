@@ -4,6 +4,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
+/* This code is borrowed from Microsoft documentation */
 namespace DotNetCoreApplications
 {
     public class Product
