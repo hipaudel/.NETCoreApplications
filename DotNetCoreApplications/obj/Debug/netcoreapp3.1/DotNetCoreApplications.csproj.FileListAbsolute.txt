@@ -1,0 +1,17 @@
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\DotNetCoreApplications.exe
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.csprojAssemblyReference.cache
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.AssemblyInfoInputs.cache
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.AssemblyInfo.cs
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\DotNetCoreApplications.deps.json
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\DotNetCoreApplications.runtimeconfig.json
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\DotNetCoreApplications.runtimeconfig.dev.json
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\DotNetCoreApplications.dll
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\DotNetCoreApplications.pdb
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\.NET Core Applications\DotNetCoreApplications\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.csproj.CoreCompileInputs.cache
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.csproj.CopyComplete
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.dll
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.pdb
+C:\.NET Core Applications\DotNetCoreApplications\obj\Debug\netcoreapp3.1\DotNetCoreApplications.genruntimeconfig.cache
